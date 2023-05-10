@@ -1,0 +1,1 @@
+Muốn thêm da mới thì thêm hide mới vào Enums/Leather.java + Config/HideConfig.java + Config/Hide.json

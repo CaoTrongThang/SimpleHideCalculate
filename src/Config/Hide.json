@@ -1,0 +1,21 @@
+{
+    "isFocus": true,
+    "isBonus": true,
+    "calculateAll": false,
+    "buyOrder": true,
+    "fee": 900,
+
+    "TIER4_leather_spec": 100,
+    "TIER5_leather_spec": 100,
+    "TIER6_leather_spec": 100,
+    "TIER7_leather_spec": 1,
+    "TIER8_leather_spec": 1,
+
+    "TIER_2_hide_price": 34, 
+    "TIER_3_hide_price": 25,
+    "TIER_4_hide_price": 25, 
+    "TIER_5_hide_price": 290, 
+    "TIER_6_hide_price": 1620, 
+    "TIER_7_hide_price": 3200,
+    "TIER_8_hide_price": 7200
+}
